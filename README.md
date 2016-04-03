@@ -1,1 +1,1 @@
-"# PrincetonAlgo" 
+Princeton Algorithm course
